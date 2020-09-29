@@ -3,8 +3,8 @@ Investigating how Maine's absentee ballot tracking system currently works, and c
 
 ## Background
 
-Increased interest in absentee balloting this year, due especially to the Covid pandemic, comes at the same time as concerns about decreased efficiency of the United States Postal Service. Many people are asking whether they can trust mailing in their absentee ballots.
+Increased interest in absentee balloting this year, due especially to the Covid pandemic, comes at the same time as concerns about decreased efficiency of the United States Postal Service. Many people are asking whether they can trust mailing in their absentee ballots. In response to the expansion of absentee balloting in Maine, the Maine Secretary of State's office announced on 9/28/2020 that such a tracking system is now available.
 
-We know that some states utilize mail-in balloting on a much larger scale than Maine, or even exclusively. A common feature of their systems is to offer a ballot tracking system so that voters can track the progress of their mail-in ballot online. Maine lacks a comprehensive centralized system for this. While offering ballot dropboxes as an alternative to the postal service appears to be on the increase among Maine towns, we can assume that mailing in their ballot will still be the most convenient option for some people, especially those with mobility challenges. If people knew that they would be able to confirm that their ballot was received, it would increase their confidence in the system, and perhaps their likelihood to vote at all.
+## Pages
 
-Given the short timeline to November, this project will at present consist mostly of research, with a stretch goal of implementing some kind of prototype with a few select municipalities.
+From the Maine Absentee Ballot Request page at https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl, click the "Check the status of your absentee ballot." button to go to the status check form at https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl.
